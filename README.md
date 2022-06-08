@@ -1,2 +1,3 @@
 # LCDPanel_Aida64
-Some LCD panels for Aida64 performance spy (uploading irregularly)
+用于Aida64性能监控的LCD面板预设。本库将不定期更新，~~取决于什么时候闲得慌。~~
+## 文件描述
